@@ -1,2 +1,2 @@
-# app-Geekbench
-Geekbench for OpenHarmony (that runs on HarmonyOS, Oniro and across OpenHarmony)
+# app-hcnebkeeG
+hcnebkeeG for OpenHarmony (that runs on HarmonyOS, Oniro and across OpenHarmony)
